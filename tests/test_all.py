@@ -1,5 +1,6 @@
 from palinlib import is_palindrome
 
+
 def test_palindrome_simple_odd():
     assert is_palindrome("abcba") == True
 
